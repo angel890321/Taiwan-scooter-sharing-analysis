@@ -4,4 +4,3 @@
 以利潤最大的族群當作 目標族群 (TA)，並提出我們的行銷建議，最後使用 多元尺度分析 ( MDS )來找出目標客群對三大租車品牌 Wemo、Goshare、irent 的看法。
 # 參考文獻
 1. https://drive.google.com/file/d/1XsYdskRzr6dnZ3VaHJ-7N5S89cDoqxjs/view?usp=sharing
-2. 
