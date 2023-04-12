@@ -1,4 +1,5 @@
 # 探討民眾選擇共享機車服務的影響因素和對於共享機車服務的態度
+簡報連結:https://www.canva.com/design/DAEQ8_y1HiI/7WjGgyEAYyHrggSMsRhr0Q/edit?utm_content=DAEQ8_y1HiI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - 平台工具 : 以Python作為主要分析的程式語言。
 - 研究方法 : 結構分析 (EDA)，並挑選出影響比較大的因素進行 分群 (k-means)，再利用 羅吉斯回歸 (Logistic regression)建立預測模型，結合混淆矩陣計算每群的預期利潤。
 以利潤最大的族群當作 目標族群 (TA)，並提出我們的行銷建議，最後使用 多元尺度分析 ( MDS )來找出目標客群對三大租車品牌 Wemo、Goshare、irent 的看法。
